@@ -1,1 +1,1 @@
- # :diamonds::diamonds::diamonds: TypeScript
+ # :cyclone::cyclone::cyclone: TypeScript
