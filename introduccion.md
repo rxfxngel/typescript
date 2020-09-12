@@ -3,7 +3,7 @@
  ```
  npm install typescript -g
  ```
- # Inciamoscon Type Script
+ # Iniciamos con Type Script
  
  ## Funcion console log de javascript
   ``` js
